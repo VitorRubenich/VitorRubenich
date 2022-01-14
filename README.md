@@ -1,4 +1,20 @@
-### Hi there 👋
+Estou atualmente buscando um novo emprego 🐱‍👤 <br>
+Me mudei para Florianópolis - SC 🏝 <br>
+Sou estudante de Sistemas de Informação, mas pretendo mudar para Engenharia de Software ou Ciência da Computação. <br>
+<hr>
+Conhecimentos em:
+<div style="display:inlineblock;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width:32px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width:32px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width:32px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width:32px"/>
+</div>
+Interesse em:
+<div style="display:inlineblock;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width:32px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width:32px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="width:32px"/>
+</div>
 
 <!--
 **VitorRubenich/VitorRubenich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
