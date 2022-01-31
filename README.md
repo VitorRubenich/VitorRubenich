@@ -1,6 +1,5 @@
-Estou atualmente buscando um novo emprego 🐱‍👤 <br>
-Me mudei para Florianópolis - SC 🏝 <br>
-Sou estudante de Sistemas de Informação, mas pretendo mudar para Engenharia de Software ou Ciência da Computação. <br>
+Amante de Tecnologia 🐱‍👤 <br>
+Atualmente moro em  Florianópolis - SC 🏝 <br> <br>
 <hr>
 Conhecimentos em:
 <div style="display:inlineblock;">
