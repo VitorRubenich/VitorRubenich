@@ -7,7 +7,7 @@ Produtividade:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" style="width:32px" />                
 </div>
 
-Desenvolvedor Mobile
+Desenvolvedor 
 Mobile: 
 <div style="display:inlineblock;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" style="width:32px"/>
