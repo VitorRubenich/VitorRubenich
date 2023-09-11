@@ -1,4 +1,4 @@
-Amante de Tecnologia 🐱‍👤 <br>
+Full Stack Developer - Android Developer 🐱‍👤 <br>
 Atualmente em  Florianópolis - SC 🏝 <br> <br>
 <hr>
 Produtividade:
