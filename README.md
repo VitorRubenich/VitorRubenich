@@ -8,8 +8,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width: 32px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="width: 32px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="width: 32px" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" style="width: 32px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 32px" />
           
 </div>        
 <h2> Mobile </h2>
@@ -25,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="width:32px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="width:32px"/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width:32px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width:32px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/angular-original.svg" style="width:32px" />
 </div>
 
 <h2> Batabase </h2>
@@ -34,11 +32,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="width:32px"/>
 </div>
 
-<h2> Sites de desafios de códigos </h2>
-<a href="https://www.hackerrank.com/profile/rubenich_vitor" >
-Hackerrank 
-</a>
-<br />
-<a href="https://leetcode.com/u/rubenichvitor/" >
-Leetcode
-</a>
