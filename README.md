@@ -6,7 +6,7 @@
 <h2> Cloud </h2>
 <div style="display:inlineblock;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" style="width: 32px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aws/aws-original.svg" style="width: 32px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="width: 32px" />
 
 
 <h2> Back-end </h2>
